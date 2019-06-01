@@ -1,0 +1,49 @@
+html,body{
+/*	width:100%;
+	height:100%;*/
+/*  margin:0;*/
+    padding:0;
+    background:url(http://d.5857.com/dahai_141107/003.jpg);
+}
+/*.lve{*/
+/*  border:1px solid #a1a1a1;     
+    background:#ddd;
+	border-radius:50px;*/
+/*}*/
+.lives{
+	background:url(5ce128bb3566b.64px.ico);
+	border:1px solid black;
+}
+div.live{
+	background-color:#ffffff;
+	border:1px solid black;
+}
+div.live p{
+	margin:30px; padding:40px;
+}
+img{width:200px;
+/*    height:100px;*/}
+/*hr {display: block;unicode-bidi: isolate;margin-block-start: 0.5em;
+    margin-block-end: 0.5em;margin-inline-start: auto;margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}*/
+.links{
+    text-align:center;margin:100px auto auto auto;
+    max-width:500px;padding:0 20px;margin-top:50px;
+    background:url(http://d.5857.com/dahai_141107/003.jpg);color:#EDECEF}/*
+.links {text-align: center;margin: 100px auto auto auto;
+    max-width: 500px;
+    padding: 0 20px;margin-top: 200px;*/
+img {
+    background-color:#D99FD1;
+    border:1px solid black;
+    border-radius:30px;
+}
+.link{
+    text-align:center;font-family:Georgia;/*font-family:Arial*/;
+    font-size:18px;}
+.a{text-decoration:none;color:black;
+    margin:5px;background-color:#D99FD1;/*background-color:#606060;*/
+    line-height:50px;}
